@@ -1,0 +1,137 @@
+[
+    {
+        "name":"Iute Credit json",
+        "logo": "img/iute-credit-logo.png",
+        "phone":"tel:+373 22 801 500",
+        "email":"info@iutecredit.md",
+        "map": "Str.Vasile Lupu 21/15",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's.",
+        "link": "apply/1",
+        "rate": 0,
+        "amount_min": 3000,
+        "amount_max": 20000,
+        "age_min": 20,
+        "period_min": 7,
+        "period_max": 30
+
+
+    
+
+
+    },
+
+    {
+        "name":"Sebo Credit",
+        "logo": "img/sebo-logo.png",
+        "phone":"tel:+373 22 801 500",
+        "email":"info@iutecredit.md",
+        "map": "Str.Vasile Lupu 21/15",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's.",
+        "link": "apply/2",
+        "rate": 0,
+        "amount_min": 3000,
+        "amount_max": 20000,
+        "age_min": 20,
+        "period_min": 7,
+        "period_max": 30
+        
+
+
+
+    },
+
+    
+    {
+        "name":"Forza Credit",
+        "logo": "img/forza-logo.png",
+        "phone":"tel:+373 22 801 500",
+        "email":"info@iutecredit.md",
+        "map": "Str.Vasile Lupu 21/15",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's.",
+        "link": "apply/3",
+        "rate": 0,
+        "amount_min": 3000,
+        "amount_max": 20000,
+        "age_min": 20,
+        "period_min": 7,
+        "period_max": 30
+
+    },
+
+       
+    {
+        "name":"Iute Credit",
+        "logo": "img/iute-credit-logo.png",
+        "phone":"tel:+373 22 801 500",
+        "email":"info@iutecredit.md",
+        "map": "Str.Vasile Lupu 21/15",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's.",
+        "link": "apply/3",
+        "rate": 0,
+        "amount_min": 3000,
+        "amount_max": 20000,
+        "age_min": 20,
+        "period_min": 7,
+        "period_max": 30
+
+    },
+
+       
+    {
+        "name":"Sebo Credit",
+        "logo": "img/sebo-logo.png",
+        "phone":"tel:+373 22 801 500",
+        "email":"info@iutecredit.md",
+        "map": "Str.Vasile Lupu 21/15",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's.",
+        "link": "apply/3",
+        "rate": 0,
+        "amount_min": 3000,
+        "amount_max": 20000,
+        "age_min": 20,
+        "period_min": 7,
+        "period_max": 30
+
+    },
+
+       
+    {
+        "name":"Iute Credit",
+        "logo": "img/forza-logo.png",
+        "phone":"tel:+373 22 801 500",
+        "email":"info@iutecredit.md",
+        "map": "Str.Vasile Lupu 21/15",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's.",
+        "link": "apply/3",
+        "rate": 0,
+        "amount_min": 3000,
+        "amount_max": 20000,
+        "age_min": 20,
+        "period_min": 7,
+        "period_max": 30
+
+    },
+
+       
+    {
+        "name":"Forza Credit",
+        "logo": "img/iute-credit-logo.png",
+        "phone":"tel:+373 22 801 500",
+        "email":"info@iutecredit.md",
+        "map": "Str.Vasile Lupu 21/15",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's.",
+        "link": "apply/3",
+        "rate": 0,
+        "amount_min": 3000,
+        "amount_max": 20000,
+        "age_min": 20,
+        "period_min": 7,
+        "period_max": 30
+
+    }
+
+       
+
+   
+
+]

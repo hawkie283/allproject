@@ -1,0 +1,69 @@
+<div class="companies">
+                        <div class="companies__left-side">
+                            <div class="company-logo">
+                                <img class="logo-img" src="img/iute-credit-logo.png" alt="IuteCredit">
+                            </div>
+                            <div class="company__info">
+                                <div class="company__info-item">
+                                    <img src="img/tel-icon.png" alt="Telephone">
+                                    <a href="tel:+373 22 801 500" class="company__info-link">
+                                        +373 22 801 500
+                                    </a>
+                                </div>
+                                <div class="company__info-item">
+                                    <img src="img/union-icon.png" alt="Mail">
+                                    <a href="#" class="company__info-link">
+                                        info@iutecredit.md
+                                    </a>
+                                </div>
+                                <div class="company__info-item">
+                                    <img src="img/map-icon.png" alt="Map">
+                                    <a href="#" class="company__info-link">
+                                        Str. Vasile Lupu 21/15
+                                    </a>
+                                </div> 
+                            </div>
+                        </div>
+                        <div class="companies__right-side">
+                            <div class="companies__info">
+                                <div class="sorting__companies-items">
+                                    <p class="sorting__companies-items-text">
+                                        Ставка<br>
+                                        <span class="sorting__companies-items-text-bottom"><strong>0%</strong> в день</span>
+                                    </p>
+                                    <p class="sorting__companies-items-text">
+                                        Сумма<br>
+                                        <span class="sorting__companies-items-text-bottom"><strong>3000 - 20000</strong> лей</span>
+                                    </p>
+                                    <p class="sorting__companies-items-text">
+                                        Срок<br>
+                                        <span class="sorting__companies-items-text-bottom">от <strong>7</strong> до <strong>30</strong> дней</span>
+                                    </p>
+                                    <p class="sorting__companies-items-text">
+                                        Возраст<br>
+                                        <span class="sorting__companies-items-text-bottom">от <strong>20</strong> лет</span>
+                                    </p>
+                                </div>
+                                <div class="sorting__companies-info-bottom">
+                                    <div>
+                                        <h4 class="sorting__companies-info-bottom-title">
+                                            Iute Credit
+                                        </h4>
+                                        <p class="sorting__companies-info-bottom-text">
+                                            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's.
+                                        </p>
+                                    </div>
+                                    <div>
+                                        <div class="sorting__companies-info-bottom-button">
+                                            <a href="#" class="button-link btn-main">
+                                                Aplică
+                                            </a>
+                                            <a href="#" class="button-detail">
+                                                Detalii
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>      
+                        </div>  
+                    </div> 
